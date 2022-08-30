@@ -12,7 +12,7 @@
 > 1. "Sleep" sort algorithm, I was thinking of some algorithm to work on.  
 > 2. Sleep sort is a joke sorting algorithm that became popular on the 4chan, the same place where world's dangerous hacker group originated.  
 > 3. Complexity is not defined in constants. Time complexity is ```O(n^2 + max(args))``` as per the info I got in google.   
-> 4. Got implementation in many languages but not in Python.   
+> 4. Got implementation in many languages but not in Python. (If you get one, kindly raise a [Pull Request](https://github.com/nitinkumar30/sleep-sort-in-python/pulls) or [Issues](https://github.com/nitinkumar30/sleep-sort-in-python/issues)  
 > 5. Very less information about this psycho sorting algorithm.  
 > 6. Algorithm is simple:
 ```
